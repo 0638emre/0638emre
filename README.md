@@ -1,8 +1,0 @@
-- 👋 Hi, I’m Emre
-- 👀 I’m interested in learning culture
-- 🌱 I’m currently learning coding day by day
-- 📫 How to reach me 
-- > https://github.com/0638emre
-- > https://www.instagram.com/emree.coskunnn/
-- > https://www.linkedin.com/in/emre-co%C5%9Fkun-18452b1b5/
-- > https://twitter.com/emrecoskun_0
